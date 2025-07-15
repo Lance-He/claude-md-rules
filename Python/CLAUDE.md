@@ -1,4 +1,4 @@
-# CLAUDE.md - Python 开发规范
+# CLAUDE - Python 开发规范
 
 This file provides guidance to Claude Code (claude.ai/code) when working with Python code in this repository.
 
