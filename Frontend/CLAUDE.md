@@ -1,4 +1,4 @@
-# CLAUDE.md - 前端开发规范
+# CLAUDE前端开发规范
 
 This file provides guidance to Claude Code (claude.ai/code) when working with frontend code in this repository.
 
