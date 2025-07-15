@@ -1,4 +1,4 @@
-# CLAUDE.md - C 语言开发规范
+# CLAUDE - C 语言开发规范
 
 This file provides guidance to Claude Code (claude.ai/code) when working with C code in this repository.
 
