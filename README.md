@@ -30,16 +30,28 @@
 
 ```
 Claude-Rules/
-├── README.md                # 项目介绍
+├── README.md                         # 项目介绍
+├── GENERAL_DEVELOPMENT_STANDARDS.md  # 通用开发标准（语言无关）
 ├── Java/
-│   └── CLAUDE.md           # Java 开发规范
+│   └── CLAUDE.md                    # Java 开发规范
 ├── Python/
-│   └── CLAUDE.md           # Python 开发规范
+│   └── CLAUDE.md                    # Python 开发规范
 ├── C/
-│   └── CLAUDE.md           # C 语言开发规范
+│   └── CLAUDE.md                    # C 语言开发规范
 └── Frontend/
-    └── CLAUDE.md           # 前端开发规范
+    └── CLAUDE.md                    # 前端开发规范
 ```
+
+## 🎯 通用开发标准
+
+在查看具体语言规范之前，建议先阅读 [通用开发标准](GENERAL_DEVELOPMENT_STANDARDS.md)，它包含了所有编程语言通用的：
+
+- 核心编程原则
+- 开发流程规范
+- 代码质量标准
+- 项目结构建议
+- 测试和文档规范
+- 团队协作指南
 
 ## 🚀 语言规范概览
 
